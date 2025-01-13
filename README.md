@@ -1,4 +1,4 @@
-# English Auto Correct
+# English SpellChecker FlaskApp
 
 English Auto Correct is a simple spell-correction tool based on word frequency from a large text corpus. This project uses the Leipzig English dataset to clean, prepare, and process text for auto-correct suggestions.
 
